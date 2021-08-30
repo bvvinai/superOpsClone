@@ -54,7 +54,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/superopsclone",
+  "/superopsclone/",
 "main.dart.js",
 "index.html",
 "assets/NOTICES",
